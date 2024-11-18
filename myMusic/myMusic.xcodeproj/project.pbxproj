@@ -1,0 +1,472 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		535A298D2C38A93100475570 /* PlayerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 535A298C2C38A93100475570 /* PlayerViewController.swift */; };
+		53D85B022C3C066B00D9F93F /* Местный-Яд.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 53D85B012C3C066B00D9F93F /* Местный-Яд.mp3 */; };
+		53D85B152C3C067E00D9F93F /* Kettenkarussel-Maybe.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 53D85B032C3C067E00D9F93F /* Kettenkarussel-Maybe.mp3 */; };
+		53D85B162C3C067E00D9F93F /* Yaeji-Raingurl.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 53D85B042C3C067E00D9F93F /* Yaeji-Raingurl.mp3 */; };
+		53D85B172C3C067E00D9F93F /* Young Thug-Again.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 53D85B052C3C067E00D9F93F /* Young Thug-Again.mp3 */; };
+		53D85B182C3C067E00D9F93F /* Amaarae, Kali Uchis feat. Moliy-SAD GIRLZ LUV MONEY.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 53D85B062C3C067E00D9F93F /* Amaarae, Kali Uchis feat. Moliy-SAD GIRLZ LUV MONEY.mp3 */; };
+		53D85B192C3C067E00D9F93F /* POSSESHOT-BAD FOR YOUR HEALTH.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 53D85B072C3C067E00D9F93F /* POSSESHOT-BAD FOR YOUR HEALTH.mp3 */; };
+		53D85B1A2C3C067E00D9F93F /* я не могу тебя найти.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 53D85B082C3C067E00D9F93F /* я не могу тебя найти.mp3 */; };
+		53D85B1B2C3C067E00D9F93F /* Mariah Carey-Fantasy.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 53D85B092C3C067E00D9F93F /* Mariah Carey-Fantasy.mp3 */; };
+		53D85B1C2C3C067E00D9F93F /* og buda,lov66-тоска.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 53D85B0A2C3C067E00D9F93F /* og buda,lov66-тоска.mp3 */; };
+		53D85B1D2C3C067E00D9F93F /* I GOT U.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 53D85B0B2C3C067E00D9F93F /* I GOT U.mp3 */; };
+		53D85B1E2C3C067E00D9F93F /* Childish Gambino-Redbone.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 53D85B0C2C3C067E00D9F93F /* Childish Gambino-Redbone.mp3 */; };
+		53D85B1F2C3C067E00D9F93F /* Adele-My Little Love (Dogger bootleg).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 53D85B0D2C3C067E00D9F93F /* Adele-My Little Love (Dogger bootleg).mp3 */; };
+		53D85B202C3C067E00D9F93F /* Big Baby Tape-Lyfe.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 53D85B0E2C3C067E00D9F93F /* Big Baby Tape-Lyfe.mp3 */; };
+		53D85B212C3C067E00D9F93F /* GONE.Fludd-Город.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 53D85B0F2C3C067E00D9F93F /* GONE.Fludd-Город.mp3 */; };
+		53D85B222C3C067E00D9F93F /* A-This-Outro.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 53D85B102C3C067E00D9F93F /* A-This-Outro.mp3 */; };
+		53D85B232C3C067E00D9F93F /* Руслан Набиев-По ресторанам.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 53D85B112C3C067E00D9F93F /* Руслан Набиев-По ресторанам.mp3 */; };
+		53D85B242C3C067E00D9F93F /* Big Baby Tape-Lo Siento.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 53D85B122C3C067E00D9F93F /* Big Baby Tape-Lo Siento.mp3 */; };
+		53D85B252C3C067E00D9F93F /* FRIENDLY THUG 52 NGG, Hugo Loud-Back To Back.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 53D85B132C3C067E00D9F93F /* FRIENDLY THUG 52 NGG, Hugo Loud-Back To Back.mp3 */; };
+		53D85B262C3C067E00D9F93F /* ALBLAK 52-Street S2 Echo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 53D85B142C3C067E00D9F93F /* ALBLAK 52-Street S2 Echo.mp3 */; };
+		53FC8F442C3891D70057E4DF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53FC8F432C3891D70057E4DF /* AppDelegate.swift */; };
+		53FC8F462C3891D70057E4DF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53FC8F452C3891D70057E4DF /* SceneDelegate.swift */; };
+		53FC8F482C3891D70057E4DF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 53FC8F472C3891D70057E4DF /* ViewController.swift */; };
+		53FC8F4B2C3891D70057E4DF /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 53FC8F4A2C3891D70057E4DF /* Base */; };
+		53FC8F4D2C3891D80057E4DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 53FC8F4C2C3891D80057E4DF /* Assets.xcassets */; };
+		53FC8F502C3891D80057E4DF /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 53FC8F4F2C3891D80057E4DF /* Base */; };
+		53FC8F5C2C3899F50057E4DF /* The Thrill - Wiz Khalifa, Empire Of The Sun.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 53FC8F582C3899F50057E4DF /* The Thrill - Wiz Khalifa, Empire Of The Sun.mp3 */; };
+		53FC8F5D2C3899F50057E4DF /* TURN_IT_ON! - MORGENSHERN, PALC.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 53FC8F592C3899F50057E4DF /* TURN_IT_ON! - MORGENSHERN, PALC.mp3 */; };
+		53FC8F5E2C3899F50057E4DF /* ЖАРА - Aнтоха МС.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 53FC8F5A2C3899F50057E4DF /* ЖАРА - Aнтоха МС.mp3 */; };
+		53FC8F5F2C3899F50057E4DF /* Supersonic - Big Baby Type, Aarne.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 53FC8F5B2C3899F50057E4DF /* Supersonic - Big Baby Type, Aarne.mp3 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		535A298C2C38A93100475570 /* PlayerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayerViewController.swift; sourceTree = "<group>"; };
+		53D85B012C3C066B00D9F93F /* Местный-Яд.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Местный-Яд.mp3"; sourceTree = "<group>"; };
+		53D85B032C3C067E00D9F93F /* Kettenkarussel-Maybe.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Kettenkarussel-Maybe.mp3"; sourceTree = "<group>"; };
+		53D85B042C3C067E00D9F93F /* Yaeji-Raingurl.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Yaeji-Raingurl.mp3"; sourceTree = "<group>"; };
+		53D85B052C3C067E00D9F93F /* Young Thug-Again.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Young Thug-Again.mp3"; sourceTree = "<group>"; };
+		53D85B062C3C067E00D9F93F /* Amaarae, Kali Uchis feat. Moliy-SAD GIRLZ LUV MONEY.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Amaarae, Kali Uchis feat. Moliy-SAD GIRLZ LUV MONEY.mp3"; sourceTree = "<group>"; };
+		53D85B072C3C067E00D9F93F /* POSSESHOT-BAD FOR YOUR HEALTH.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "POSSESHOT-BAD FOR YOUR HEALTH.mp3"; sourceTree = "<group>"; };
+		53D85B082C3C067E00D9F93F /* я не могу тебя найти.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "я не могу тебя найти.mp3"; sourceTree = "<group>"; };
+		53D85B092C3C067E00D9F93F /* Mariah Carey-Fantasy.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Mariah Carey-Fantasy.mp3"; sourceTree = "<group>"; };
+		53D85B0A2C3C067E00D9F93F /* og buda,lov66-тоска.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "og buda,lov66-тоска.mp3"; sourceTree = "<group>"; };
+		53D85B0B2C3C067E00D9F93F /* I GOT U.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "I GOT U.mp3"; sourceTree = "<group>"; };
+		53D85B0C2C3C067E00D9F93F /* Childish Gambino-Redbone.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Childish Gambino-Redbone.mp3"; sourceTree = "<group>"; };
+		53D85B0D2C3C067E00D9F93F /* Adele-My Little Love (Dogger bootleg).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Adele-My Little Love (Dogger bootleg).mp3"; sourceTree = "<group>"; };
+		53D85B0E2C3C067E00D9F93F /* Big Baby Tape-Lyfe.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Big Baby Tape-Lyfe.mp3"; sourceTree = "<group>"; };
+		53D85B0F2C3C067E00D9F93F /* GONE.Fludd-Город.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "GONE.Fludd-Город.mp3"; sourceTree = "<group>"; };
+		53D85B102C3C067E00D9F93F /* A-This-Outro.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "A-This-Outro.mp3"; sourceTree = "<group>"; };
+		53D85B112C3C067E00D9F93F /* Руслан Набиев-По ресторанам.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Руслан Набиев-По ресторанам.mp3"; sourceTree = "<group>"; };
+		53D85B122C3C067E00D9F93F /* Big Baby Tape-Lo Siento.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Big Baby Tape-Lo Siento.mp3"; sourceTree = "<group>"; };
+		53D85B132C3C067E00D9F93F /* FRIENDLY THUG 52 NGG, Hugo Loud-Back To Back.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "FRIENDLY THUG 52 NGG, Hugo Loud-Back To Back.mp3"; sourceTree = "<group>"; };
+		53D85B142C3C067E00D9F93F /* ALBLAK 52-Street S2 Echo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ALBLAK 52-Street S2 Echo.mp3"; sourceTree = "<group>"; };
+		53FC8F402C3891D70057E4DF /* myMusic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = myMusic.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		53FC8F432C3891D70057E4DF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		53FC8F452C3891D70057E4DF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		53FC8F472C3891D70057E4DF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		53FC8F4A2C3891D70057E4DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		53FC8F4C2C3891D80057E4DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		53FC8F4F2C3891D80057E4DF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		53FC8F512C3891D80057E4DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		53FC8F582C3899F50057E4DF /* The Thrill - Wiz Khalifa, Empire Of The Sun.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "The Thrill - Wiz Khalifa, Empire Of The Sun.mp3"; sourceTree = "<group>"; };
+		53FC8F592C3899F50057E4DF /* TURN_IT_ON! - MORGENSHERN, PALC.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "TURN_IT_ON! - MORGENSHERN, PALC.mp3"; sourceTree = "<group>"; };
+		53FC8F5A2C3899F50057E4DF /* ЖАРА - Aнтоха МС.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "ЖАРА - Aнтоха МС.mp3"; sourceTree = "<group>"; };
+		53FC8F5B2C3899F50057E4DF /* Supersonic - Big Baby Type, Aarne.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Supersonic - Big Baby Type, Aarne.mp3"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		53FC8F3D2C3891D70057E4DF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		53BB4FAF2C3C05AA00C8D1C7 /* audio */ = {
+			isa = PBXGroup;
+			children = (
+				53FC8F5B2C3899F50057E4DF /* Supersonic - Big Baby Type, Aarne.mp3 */,
+				53FC8F5A2C3899F50057E4DF /* ЖАРА - Aнтоха МС.mp3 */,
+				53FC8F582C3899F50057E4DF /* The Thrill - Wiz Khalifa, Empire Of The Sun.mp3 */,
+				53FC8F592C3899F50057E4DF /* TURN_IT_ON! - MORGENSHERN, PALC.mp3 */,
+				53D85B012C3C066B00D9F93F /* Местный-Яд.mp3 */,
+				53D85B112C3C067E00D9F93F /* Руслан Набиев-По ресторанам.mp3 */,
+				53D85B082C3C067E00D9F93F /* я не могу тебя найти.mp3 */,
+				53D85B102C3C067E00D9F93F /* A-This-Outro.mp3 */,
+				53D85B0D2C3C067E00D9F93F /* Adele-My Little Love (Dogger bootleg).mp3 */,
+				53D85B142C3C067E00D9F93F /* ALBLAK 52-Street S2 Echo.mp3 */,
+				53D85B062C3C067E00D9F93F /* Amaarae, Kali Uchis feat. Moliy-SAD GIRLZ LUV MONEY.mp3 */,
+				53D85B122C3C067E00D9F93F /* Big Baby Tape-Lo Siento.mp3 */,
+				53D85B0E2C3C067E00D9F93F /* Big Baby Tape-Lyfe.mp3 */,
+				53D85B0C2C3C067E00D9F93F /* Childish Gambino-Redbone.mp3 */,
+				53D85B132C3C067E00D9F93F /* FRIENDLY THUG 52 NGG, Hugo Loud-Back To Back.mp3 */,
+				53D85B0F2C3C067E00D9F93F /* GONE.Fludd-Город.mp3 */,
+				53D85B0B2C3C067E00D9F93F /* I GOT U.mp3 */,
+				53D85B032C3C067E00D9F93F /* Kettenkarussel-Maybe.mp3 */,
+				53D85B092C3C067E00D9F93F /* Mariah Carey-Fantasy.mp3 */,
+				53D85B0A2C3C067E00D9F93F /* og buda,lov66-тоска.mp3 */,
+				53D85B072C3C067E00D9F93F /* POSSESHOT-BAD FOR YOUR HEALTH.mp3 */,
+				53D85B042C3C067E00D9F93F /* Yaeji-Raingurl.mp3 */,
+				53D85B052C3C067E00D9F93F /* Young Thug-Again.mp3 */,
+			);
+			path = audio;
+			sourceTree = "<group>";
+		};
+		53FC8F372C3891D70057E4DF = {
+			isa = PBXGroup;
+			children = (
+				53FC8F422C3891D70057E4DF /* myMusic */,
+				53FC8F412C3891D70057E4DF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		53FC8F412C3891D70057E4DF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				53FC8F402C3891D70057E4DF /* myMusic.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		53FC8F422C3891D70057E4DF /* myMusic */ = {
+			isa = PBXGroup;
+			children = (
+				53BB4FAF2C3C05AA00C8D1C7 /* audio */,
+				53FC8F432C3891D70057E4DF /* AppDelegate.swift */,
+				53FC8F452C3891D70057E4DF /* SceneDelegate.swift */,
+				53FC8F472C3891D70057E4DF /* ViewController.swift */,
+				535A298C2C38A93100475570 /* PlayerViewController.swift */,
+				53FC8F492C3891D70057E4DF /* Main.storyboard */,
+				53FC8F4C2C3891D80057E4DF /* Assets.xcassets */,
+				53FC8F4E2C3891D80057E4DF /* LaunchScreen.storyboard */,
+				53FC8F512C3891D80057E4DF /* Info.plist */,
+			);
+			path = myMusic;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		53FC8F3F2C3891D70057E4DF /* myMusic */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 53FC8F542C3891D80057E4DF /* Build configuration list for PBXNativeTarget "myMusic" */;
+			buildPhases = (
+				53FC8F3C2C3891D70057E4DF /* Sources */,
+				53FC8F3D2C3891D70057E4DF /* Frameworks */,
+				53FC8F3E2C3891D70057E4DF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = myMusic;
+			productName = myMusic;
+			productReference = 53FC8F402C3891D70057E4DF /* myMusic.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		53FC8F382C3891D70057E4DF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1540;
+				LastUpgradeCheck = 1540;
+				TargetAttributes = {
+					53FC8F3F2C3891D70057E4DF = {
+						CreatedOnToolsVersion = 15.4;
+					};
+				};
+			};
+			buildConfigurationList = 53FC8F3B2C3891D70057E4DF /* Build configuration list for PBXProject "myMusic" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 53FC8F372C3891D70057E4DF;
+			productRefGroup = 53FC8F412C3891D70057E4DF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				53FC8F3F2C3891D70057E4DF /* myMusic */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		53FC8F3E2C3891D70057E4DF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				53D85B262C3C067E00D9F93F /* ALBLAK 52-Street S2 Echo.mp3 in Resources */,
+				53D85B1D2C3C067E00D9F93F /* I GOT U.mp3 in Resources */,
+				53D85B1F2C3C067E00D9F93F /* Adele-My Little Love (Dogger bootleg).mp3 in Resources */,
+				53D85B222C3C067E00D9F93F /* A-This-Outro.mp3 in Resources */,
+				53D85B1A2C3C067E00D9F93F /* я не могу тебя найти.mp3 in Resources */,
+				53FC8F4D2C3891D80057E4DF /* Assets.xcassets in Resources */,
+				53FC8F5E2C3899F50057E4DF /* ЖАРА - Aнтоха МС.mp3 in Resources */,
+				53D85B212C3C067E00D9F93F /* GONE.Fludd-Город.mp3 in Resources */,
+				53D85B152C3C067E00D9F93F /* Kettenkarussel-Maybe.mp3 in Resources */,
+				53FC8F502C3891D80057E4DF /* Base in Resources */,
+				53D85B232C3C067E00D9F93F /* Руслан Набиев-По ресторанам.mp3 in Resources */,
+				53FC8F5D2C3899F50057E4DF /* TURN_IT_ON! - MORGENSHERN, PALC.mp3 in Resources */,
+				53D85B252C3C067E00D9F93F /* FRIENDLY THUG 52 NGG, Hugo Loud-Back To Back.mp3 in Resources */,
+				53FC8F5C2C3899F50057E4DF /* The Thrill - Wiz Khalifa, Empire Of The Sun.mp3 in Resources */,
+				53D85B192C3C067E00D9F93F /* POSSESHOT-BAD FOR YOUR HEALTH.mp3 in Resources */,
+				53D85B1E2C3C067E00D9F93F /* Childish Gambino-Redbone.mp3 in Resources */,
+				53D85B202C3C067E00D9F93F /* Big Baby Tape-Lyfe.mp3 in Resources */,
+				53D85B1C2C3C067E00D9F93F /* og buda,lov66-тоска.mp3 in Resources */,
+				53FC8F4B2C3891D70057E4DF /* Base in Resources */,
+				53FC8F5F2C3899F50057E4DF /* Supersonic - Big Baby Type, Aarne.mp3 in Resources */,
+				53D85B1B2C3C067E00D9F93F /* Mariah Carey-Fantasy.mp3 in Resources */,
+				53D85B172C3C067E00D9F93F /* Young Thug-Again.mp3 in Resources */,
+				53D85B022C3C066B00D9F93F /* Местный-Яд.mp3 in Resources */,
+				53D85B242C3C067E00D9F93F /* Big Baby Tape-Lo Siento.mp3 in Resources */,
+				53D85B182C3C067E00D9F93F /* Amaarae, Kali Uchis feat. Moliy-SAD GIRLZ LUV MONEY.mp3 in Resources */,
+				53D85B162C3C067E00D9F93F /* Yaeji-Raingurl.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		53FC8F3C2C3891D70057E4DF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				53FC8F482C3891D70057E4DF /* ViewController.swift in Sources */,
+				535A298D2C38A93100475570 /* PlayerViewController.swift in Sources */,
+				53FC8F442C3891D70057E4DF /* AppDelegate.swift in Sources */,
+				53FC8F462C3891D70057E4DF /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		53FC8F492C3891D70057E4DF /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				53FC8F4A2C3891D70057E4DF /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		53FC8F4E2C3891D80057E4DF /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				53FC8F4F2C3891D80057E4DF /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		53FC8F522C3891D80057E4DF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		53FC8F532C3891D80057E4DF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		53FC8F552C3891D80057E4DF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = AJ5QNVYP6Y;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = myMusic/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = org.tag.myMusic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		53FC8F562C3891D80057E4DF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = AJ5QNVYP6Y;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = myMusic/Info.plist;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = org.tag.myMusic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		53FC8F3B2C3891D70057E4DF /* Build configuration list for PBXProject "myMusic" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				53FC8F522C3891D80057E4DF /* Debug */,
+				53FC8F532C3891D80057E4DF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		53FC8F542C3891D80057E4DF /* Build configuration list for PBXNativeTarget "myMusic" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				53FC8F552C3891D80057E4DF /* Debug */,
+				53FC8F562C3891D80057E4DF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 53FC8F382C3891D70057E4DF /* Project object */;
+}
